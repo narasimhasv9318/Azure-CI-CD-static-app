@@ -1,7 +1,7 @@
 # cicdapp for MLOps Project V20
 
 ## Project setup
-My new test project in the Azure devops
+My new test project in the Azure devops........
 ```
 npm install
 ```
