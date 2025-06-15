@@ -1,7 +1,7 @@
 <template>
   <div id="app">
 
-    <h1>Narasimha Azure deployment.</h1>
+    <h1>Narasimha Azure deployment with Manual Approval</h1>
 	<h2>Upload your data to get Gen Ai predictions</h2>
     <img
       alt="Vue logo"
